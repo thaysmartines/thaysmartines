@@ -5,4 +5,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaysmartines&layout=compact&langs_count=7&theme=dark"/>
 </div>
    <a href="https://www.linkedin.com/in/thays-martines-622161214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/thaysmartinestm/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Fvetores-gratis%2Finstagram-icone-novo_954290.htm&psig=AOvVaw2MB0lUok2xH33qxjXjjaLN&ust=1705766016919000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDnvt3n6YMDFQAAAAAdAAAAABAD" target="_blank"></a>
   </div>
